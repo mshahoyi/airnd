@@ -1,0 +1,3 @@
+# every notebook in `nbs/` will have a twin script in `py:percent` format
+formats = "ipynb,py:percent"
+default_jupytext_formats = "ipynb,py:percent"

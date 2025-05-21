@@ -1,3 +1,9 @@
 [build-system]
 requires = ["setuptools>=64.0"]
 build-backend = "setuptools.build_meta"
+
+[tool.nbdev]
+# wherever you want to keep your notebooks:
+nbs_path = "nbs"
+# your library folder
+lib_path = "airnd"

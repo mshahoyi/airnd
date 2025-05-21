@@ -1,0 +1,11 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+          {
+            "match": "\\.py$",
+            "isAsync": true,
+            "cmd": "jupytext --sync nbs/*.py"
+          },
+      ]
+    }
+}
