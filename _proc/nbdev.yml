@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "airnd"
+  site-url: "https://mshahoyi.github.io/airnd"
+  description: "My toolkit for doing AI R&D"
+  repo-branch: main
+  repo-url: "https://github.com/mshahoyi/airnd"
